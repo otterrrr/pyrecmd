@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pyrecmd
+Version: 0.1.0
+Summary: pure python implementation of collaborative filtering for recommendation system
+Home-page: https://github.com/humble-data-miner/pyrecmd
+Author: Humble Data Miner
+Author-email: humble.data.miner@gmail.com
+License: MIT
+Description: This is a simple implementation of recommendation system using Collaborative Filtering algorithm.
+        Since this's built only on python modules, it's easy to see and understand how collaborative filtering algorithm works
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT license
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Operating System :: OS Independent

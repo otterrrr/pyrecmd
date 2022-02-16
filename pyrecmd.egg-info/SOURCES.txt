@@ -1,0 +1,7 @@
+pyrecmd.py
+setup.py
+pyrecmd.egg-info/PKG-INFO
+pyrecmd.egg-info/SOURCES.txt
+pyrecmd.egg-info/dependency_links.txt
+pyrecmd.egg-info/requires.txt
+pyrecmd.egg-info/top_level.txt
