@@ -116,5 +116,5 @@ The input "Ratings" is a list of tuples, each has (item, user, rating)
 
 ### Reference
 
-* [Wikepedia - Collaborative Filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
+* [Wikipedia - Collaborative Filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
 * [Coursera - Machine Learning - Recommender System](https://www.coursera.org/learn/machine-learning)
